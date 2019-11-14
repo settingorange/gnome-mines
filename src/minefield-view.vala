@@ -448,12 +448,12 @@ public class MinefieldView : Gtk.Grid
             break;
 
         case Gdk.Key.Right:
-        case Gdk.Key.k:
+        case Gdk.Key.l:
             x++;
             break;
 
         case Gdk.Key.Up:
-        case Gdk.Key.u:
+        case Gdk.Key.k:
             y--;
             break;
 

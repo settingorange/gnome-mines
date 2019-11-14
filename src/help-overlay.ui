@@ -68,7 +68,7 @@
             <child>
               <object class="GtkShortcutsShortcut">
                 <property name="visible">1</property>
-                <property name="accelerator">u j h k</property>
+                <property name="accelerator">k j h l</property>
                 <property name="title" translatable="yes" context="shortcut window">Move the keyboard cursor in the game field</property>
               </object>
             </child>
